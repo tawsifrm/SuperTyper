@@ -6,7 +6,6 @@ Welcome to SuperTyper, a fun and challenging typing game where you can enhance y
 - [How to Play](#how-to-play)
 - [Features](#features)
 - [Installation](#installation)
-- [License](#license)
 
 ## How to Play
 1. Open `index.html` in your web browser.
