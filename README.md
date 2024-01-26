@@ -2,6 +2,9 @@
 
 Welcome to SuperTyper, a fun and challenging typing game where you can enhance your typing skills while enjoying quirky superhero adventures! Test your speed, accuracy, and typing prowess as you navigate through captivating paragraphs featuring unique superheroes and their epic battles.
 
+## Demonstration Video
+(https://youtu.be/X2Qg1qdFJyw)
+
 ## Table of Contents
 - [How to Play](#how-to-play)
 - [Features](#features)
